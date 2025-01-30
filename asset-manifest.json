@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SMSerPigeon/static/css/main.e6c13ad2.css",
-    "main.js": "/SMSerPigeon/static/js/main.a5c8b1a8.js",
+    "main.js": "/SMSerPigeon/static/js/main.c8abb6d7.js",
     "index.html": "/SMSerPigeon/index.html",
     "main.e6c13ad2.css.map": "/SMSerPigeon/static/css/main.e6c13ad2.css.map",
-    "main.a5c8b1a8.js.map": "/SMSerPigeon/static/js/main.a5c8b1a8.js.map"
+    "main.c8abb6d7.js.map": "/SMSerPigeon/static/js/main.c8abb6d7.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a5c8b1a8.js"
+    "static/js/main.c8abb6d7.js"
   ]
 }
