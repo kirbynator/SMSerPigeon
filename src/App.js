@@ -28,7 +28,7 @@ export default function App() {
   }, []);
 
   const generateLink = () => {
-    const url = `${window.location.origin}?phone=${phone}&message=${encodeURIComponent(message)}`;
+    const url = `${window.location.origin + window.location.pathname}?phone=${phone}&message=${encodeURIComponent(message)}`;
     setSmsLink(url);
   };
 
